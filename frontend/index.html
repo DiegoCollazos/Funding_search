@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Funding Search — Convocatorias de financiación</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div class="app-header__title">
+      <h1>Funding Search</h1>
+      <p>Identificación y monitoreo de convocatorias de financiación nacionales e internacionales</p>
+    </div>
+    <div class="stats-bar" id="stats-bar">
+      <div class="stat"><span class="stat__value" id="stat-entities">–</span><span class="stat__label">Entidades activas</span></div>
+      <div class="stat"><span class="stat__value" id="stat-open">–</span><span class="stat__label">Convocatorias vigentes</span></div>
+      <div class="stat"><span class="stat__value" id="stat-national">–</span><span class="stat__label">Nacionales</span></div>
+      <div class="stat"><span class="stat__value" id="stat-international">–</span><span class="stat__label">Internacionales</span></div>
+    </div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab-btn active" data-tab="search">Buscar convocatorias</button>
+    <button class="tab-btn" data-tab="identify">Identificar convocatoria</button>
+    <button class="tab-btn" data-tab="entities">Administrar entidades</button>
+  </nav>
+
+  <main>
+    <!-- ================= TAB: BUSCAR ================= -->
+    <section id="tab-search" class="tab-panel active">
+      <form id="search-form" class="filter-card">
+        <div class="filter-grid">
+          <label>Palabras clave
+            <input type="text" id="f-keyword" placeholder="p. ej. energía renovable, salud pública..." />
+          </label>
+          <label>Línea temática
+            <input type="text" id="f-theme" placeholder="p. ej. inteligencia artificial, agua..." />
+          </label>
+          <label>ODS
+            <select id="f-sdg">
+              <option value="">Todos</option>
+            </select>
+          </label>
+          <label>Alcance
+            <select id="f-scope">
+              <option value="Todas">Nacional e internacional</option>
+              <option value="Nacional">Solo nacional (Colombia)</option>
+              <option value="Internacional">Solo internacional</option>
+            </select>
+          </label>
+          <label>Entidad
+            <select id="f-entity"><option value="">Todas las entidades</option></select>
+          </label>
+          <label class="checkbox-label">
+            <input type="checkbox" id="f-only-open" checked />
+            Solo convocatorias vigentes
+          </label>
+        </div>
+        <div class="filter-actions">
+          <button type="submit" class="btn btn--primary">Buscar</button>
+          <button type="button" class="btn" id="btn-clear-filters">Limpiar</button>
+        </div>
+      </form>
+
+      <div id="search-status" class="status-line"></div>
+      <div id="search-results" class="results-grid"></div>
+    </section>
+
+    <!-- ================= TAB: IDENTIFICAR ================= -->
+    <section id="tab-identify" class="tab-panel">
+      <div class="filter-card">
+        <p class="hint">
+          Pega la URL de una convocatoria puntual (o, si el sitio bloquea la descarga automática,
+          pega directamente el texto de la convocatoria). El sistema indicará si es nacional o
+          internacional y extraerá objetivo, fecha de cierre, monto y viabilidad para una
+          universidad pública.
+        </p>
+        <form id="identify-form">
+          <label>URL de la convocatoria
+            <input type="url" id="i-url" placeholder="https://..." />
+          </label>
+          <label>...o pega aquí el texto de la convocatoria
+            <textarea id="i-text" rows="5" placeholder="Pega aquí el contenido si no se puede acceder a la URL automáticamente"></textarea>
+          </label>
+          <div class="filter-actions">
+            <button type="submit" class="btn btn--primary">Identificar</button>
+          </div>
+        </form>
+      </div>
+      <div id="identify-status" class="status-line"></div>
+      <div id="identify-result"></div>
+    </section>
+
+    <!-- ================= TAB: ENTIDADES ================= -->
+    <section id="tab-entities" class="tab-panel">
+      <div class="filter-card">
+        <h2>Agregar entidad financiadora</h2>
+        <p class="hint">
+          Solo se necesita la URL del listado de convocatorias de la entidad: el sistema
+          intentará detectar automáticamente los ítems. Si conoces la estructura HTML del
+          sitio, puedes afinar el resultado con selectores CSS opcionales (avanzado).
+        </p>
+        <form id="entity-form">
+          <input type="hidden" id="e-id" />
+          <div class="filter-grid">
+            <label>Nombre <input type="text" id="e-name" required /></label>
+            <label>URL del listado de convocatorias <input type="url" id="e-url" required /></label>
+            <label>Alcance
+              <select id="e-scope">
+                <option value="Nacional">Nacional</option>
+                <option value="Internacional" selected>Internacional</option>
+              </select>
+            </label>
+            <label>País / región <input type="text" id="e-country" /></label>
+            <label>Tipo de entidad <input type="text" id="e-type" placeholder="Ministerio, fundación, agencia..." /></label>
+            <label>Adaptador de scraping
+              <select id="e-adapter"><option value="generic">Genérico (autodetección)</option></select>
+            </label>
+            <label>Frecuencia de scraping
+              <select id="e-frequency">
+                <option value="manual">Manual</option>
+                <option value="diario">Diario</option>
+                <option value="semanal" selected>Semanal</option>
+                <option value="mensual">Mensual</option>
+              </select>
+            </label>
+            <label class="checkbox-label"><input type="checkbox" id="e-active" checked /> Activa</label>
+          </div>
+          <details class="advanced-config">
+            <summary>Selectores CSS avanzados (opcional)</summary>
+            <label>Selector del contenedor de cada convocatoria (list_selector)
+              <input type="text" id="e-list-selector" placeholder="p. ej. table tbody tr" />
+            </label>
+            <label>Selector del título (title_selector) <input type="text" id="e-title-selector" /></label>
+            <label>Selector del enlace (link_selector) <input type="text" id="e-link-selector" /></label>
+            <label>Selector de la descripción (description_selector) <input type="text" id="e-desc-selector" /></label>
+          </details>
+          <div class="filter-actions">
+            <button type="submit" class="btn btn--primary" id="entity-submit-btn">Agregar entidad</button>
+            <button type="button" class="btn" id="btn-cancel-edit" hidden>Cancelar edición</button>
+          </div>
+        </form>
+      </div>
+
+      <div id="entities-status" class="status-line"></div>
+      <div class="table-wrap">
+        <table class="entities-table">
+          <thead>
+            <tr>
+              <th>Entidad</th><th>Alcance</th><th>País</th><th>Frecuencia</th>
+              <th>Estado</th><th>Último scraping</th><th>Convocatorias</th><th>Acciones</th>
+            </tr>
+          </thead>
+          <tbody id="entities-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal-overlay" class="modal-overlay" hidden>
+    <div class="modal" id="modal-content"></div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>
