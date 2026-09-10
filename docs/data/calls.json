@@ -1,0 +1,78 @@
+[
+  {
+    "id": "demo-1",
+    "entity_id": "minciencias-convocatorias",
+    "entity_name": "MinCiencias – Convocatorias",
+    "title": "Convocatoria para el fortalecimiento de grupos de investigación (ejemplo)",
+    "link": "https://minciencias.gov.co/convocatorias/todas",
+    "objective": "Financiar proyectos de investigación, desarrollo tecnológico e innovación ejecutados por grupos reconocidos, con participación de instituciones de educación superior.",
+    "description": "Financiar proyectos de investigación, desarrollo tecnológico e innovación ejecutados por grupos reconocidos, con participación de instituciones de educación superior. [Dato de ejemplo para demostrar la herramienta; se reemplaza con información real en la siguiente corrida del scraping.]",
+    "opening_date_text": "2026-09-10",
+    "deadline_date_text": "25/10/2026",
+    "deadline_date": "2026-10-25",
+    "amount_text": "Hasta $800.000.000 COP por proyecto",
+    "amount_value": 800000000,
+    "amount_currency": "COP",
+    "scope": "Nacional",
+    "sdg_list": [
+      "4",
+      "9"
+    ],
+    "theme_keywords": [],
+    "university_eligibility": "Sí (ejecutora)",
+    "university_eligibility_note": "Convocatoria abierta a universidades públicas y privadas reconocidas por el Ministerio de Educación.",
+    "status": "Vigente",
+    "first_seen_at": "2026-09-10T21:38:58.151453",
+    "last_seen_at": "2026-09-10T21:38:58.151453"
+  },
+  {
+    "id": "demo-2",
+    "entity_id": "european-commission-funding-tenders-portal",
+    "entity_name": "European Commission – Funding & Tenders Portal",
+    "title": "Horizon Europe – Cluster Health call (ejemplo)",
+    "link": "https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/calls-for-proposals",
+    "objective": "Support research consortia addressing public health challenges, including participation of public research organisations and universities as beneficiaries.",
+    "description": "Support research consortia addressing public health challenges, including participation of public research organisations and universities as beneficiaries. [Dato de ejemplo para demostrar la herramienta; se reemplaza con información real en la siguiente corrida del scraping.]",
+    "opening_date_text": "2026-09-10",
+    "deadline_date_text": "09/12/2026",
+    "deadline_date": "2026-12-09",
+    "amount_text": "EUR 3,000,000 total budget per project",
+    "amount_value": 3000000,
+    "amount_currency": "EUR",
+    "scope": "Internacional",
+    "sdg_list": [
+      "3"
+    ],
+    "theme_keywords": [],
+    "university_eligibility": "Sí (ejecutora o aliada)",
+    "university_eligibility_note": "La convocatoria permite participar como beneficiario principal o como socio en consorcio; incluye universidades públicas.",
+    "status": "Vigente",
+    "first_seen_at": "2026-09-10T21:38:58.151453",
+    "last_seen_at": "2026-09-10T21:38:58.151453"
+  },
+  {
+    "id": "demo-3",
+    "entity_id": "fontagro",
+    "entity_name": "FONTAGRO",
+    "title": "Convocatoria de innovación agroalimentaria (ejemplo)",
+    "link": "https://www.fontagro.org/new/convocatorias/",
+    "objective": "Cofinanciar proyectos de innovación tecnológica para la agricultura familiar y sostenible en América Latina y el Caribe.",
+    "description": "Cofinanciar proyectos de innovación tecnológica para la agricultura familiar y sostenible en América Latina y el Caribe. [Dato de ejemplo para demostrar la herramienta; se reemplaza con información real en la siguiente corrida del scraping.]",
+    "opening_date_text": "2026-09-10",
+    "deadline_date_text": "09/11/2026",
+    "deadline_date": "2026-11-09",
+    "amount_text": "USD 200,000 por proyecto",
+    "amount_value": 200000,
+    "amount_currency": "USD",
+    "scope": "Internacional",
+    "sdg_list": [
+      "2"
+    ],
+    "theme_keywords": [],
+    "university_eligibility": "Sí (aliada)",
+    "university_eligibility_note": "Se requiere consorcio con al menos dos países; universidades públicas pueden participar como aliadas del proponente.",
+    "status": "Vigente",
+    "first_seen_at": "2026-09-10T21:38:58.151453",
+    "last_seen_at": "2026-09-10T21:38:58.151453"
+  }
+]

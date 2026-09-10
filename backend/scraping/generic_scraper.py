@@ -139,9 +139,15 @@ def scrape_entity_generic(entity) -> list[dict]:
     se completan después en ``runner.py`` a partir del texto de la página
     de detalle mediante heurísticas de extracción.
     """
-    try:
-        config = json.loads(entity.scraper_config or "{}")
-    except (json.JSONDecodeError, TypeError):
+    raw_config = getattr(entity, "scraper_config", None)
+    if isinstance(raw_config, dict):
+        config = raw_config
+    elif isinstance(raw_config, str):
+        try:
+            config = json.loads(raw_config or "{}")
+        except json.JSONDecodeError:
+            config = {}
+    else:
         config = {}
 
     html = fetch_page(entity.url)

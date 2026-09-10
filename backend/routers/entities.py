@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 import json
-import re
 
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
@@ -12,14 +11,9 @@ from .. import models, schemas
 from ..database import get_db
 from ..scraping.adapters.registry import ADAPTER_CHOICES
 from ..scraping.runner import run_scrape_for_entity
+from ..slugify import slugify as _slugify
 
 router = APIRouter(prefix="/api/entities", tags=["entities"])
-
-
-def _slugify(value: str) -> str:
-    value = value.lower().strip()
-    value = re.sub(r"[^a-z0-9]+", "-", value)
-    return value.strip("-") or "entidad"
 
 
 def _unique_slug(db: Session, base_slug: str, exclude_id: int | None = None) -> str:

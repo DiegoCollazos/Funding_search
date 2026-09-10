@@ -190,3 +190,39 @@ textarea { resize: vertical; font-family: inherit; }
   .tabs { padding: 0.5rem 1rem 0; overflow-x: auto; }
   main { padding: 1rem; }
 }
+
+/* --- Panel de configuración de GitHub (variante estática GitHub Pages) --- */
+.gh-config {
+  background: #fbfbfe;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.25rem;
+}
+.gh-config summary { cursor: pointer; font-weight: 700; }
+.gh-config-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.9rem;
+}
+.gh-status-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+}
+.gh-status-pill--ok { background: var(--success-bg); color: var(--success); }
+.gh-status-pill--warn { background: var(--warning-bg); color: var(--warning); }
+.static-banner {
+  background: var(--international-bg);
+  color: var(--international);
+  border-radius: var(--radius);
+  padding: 0.75rem 1.1rem;
+  font-size: 0.85rem;
+  margin-bottom: 1.25rem;
+}
+.static-banner a { color: inherit; font-weight: 700; }

@@ -1,0 +1,68 @@
+name: Scraping de convocatorias (GitHub Pages)
+
+# Mantiene actualizados docs/data/entities.json y docs/data/calls.json, que
+# son los datos que lee la versión estática de la herramienta publicada en
+# GitHub Pages (no hay backend corriendo de forma continua: este workflow
+# hace las veces de "servidor" para el scraping programado).
+#
+# Se puede disparar de tres formas:
+#   1. Automáticamente todos los días (cron), scrapeando solo las entidades
+#      que ya cumplieron su frecuencia configurada (diaria/semanal/mensual).
+#   2. Manualmente desde GitHub (pestaña Actions > Run workflow).
+#   3. Manualmente desde la propia página (botón "Actualizar ahora" en la
+#      pestaña "Administrar entidades"), que llama a la API de GitHub
+#      (workflow_dispatch) con el id de la entidad a actualizar.
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 09:00 UTC ≈ 04:00 Colombia
+  workflow_dispatch:
+    inputs:
+      entity_id:
+        description: "Id de una entidad puntual a scrapear (vacío = todas las activas)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-entidades
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias mínimas del scraper
+        run: pip install -r requirements-scraper.txt
+
+      - name: Ejecutar scraping
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python scripts/run_scraping.py --only-due
+          elif [ -n "${{ github.event.inputs.entity_id }}" ]; then
+            python scripts/run_scraping.py --entity-id "${{ github.event.inputs.entity_id }}"
+          else
+            python scripts/run_scraping.py
+          fi
+
+      - name: Commitear datos actualizados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/entities.json docs/data/calls.json
+          if git diff --cached --quiet; then
+            echo "Sin cambios en las convocatorias; no se crea commit."
+          else
+            git commit -m "chore: actualizar convocatorias (scraping automático)"
+            git push
+          fi
