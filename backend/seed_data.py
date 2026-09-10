@@ -10,11 +10,11 @@ desde la pestaña "Administrar entidades" sin tocar código.
 from __future__ import annotations
 
 import datetime as dt
-import re
 
 from sqlalchemy.orm import Session
 
 from . import models
+from .slugify import slugify as _slugify
 
 _SEED_ENTITIES = [
     # -- Internacionales --------------------------------------------------
@@ -81,12 +81,6 @@ _SEED_ENTITIES = [
         scope="Nacional", country="Colombia", entity_type="Ministerio", adapter="generic",
     ),
 ]
-
-
-def _slugify(value: str) -> str:
-    value = value.lower().strip()
-    value = re.sub(r"[^a-z0-9]+", "-", value)
-    return value.strip("-")
 
 
 def seed_entities_if_empty(db: Session) -> int:

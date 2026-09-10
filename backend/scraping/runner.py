@@ -1,7 +1,12 @@
-"""Orquestador de scraping: ejecuta el adaptador de una entidad, enriquece
-los resultados crudos con las heurísticas de extracción/clasificación, y
-sincroniza todo en la base de datos (alta de convocatorias nuevas,
-actualización de las existentes, marcado de cerradas, bitácora)."""
+"""Orquestador de scraping (variante con base de datos): ejecuta el adaptador
+de una entidad, enriquece los resultados crudos con ``enrich.enrich_raw_call``
+y sincroniza todo en la base de datos (alta de convocatorias nuevas,
+actualización de las existentes, marcado de cerradas, bitácora).
+
+Para la variante estática publicada en GitHub Pages, ver
+``scripts/run_scraping.py``, que reutiliza el mismo ``enrich_raw_call`` pero
+persiste en archivos JSON en vez de en esta base de datos.
+"""
 
 from __future__ import annotations
 
@@ -11,54 +16,9 @@ from sqlalchemy.orm import Session
 
 from .. import models
 from .adapters.registry import get_adapter
-from .extraction import (
-    assess_university_eligibility,
-    extract_amount,
-    extract_deadline,
-    extract_objective,
-    parse_date_generic,
-)
-from .sdg_classifier import classify_sdg, extract_theme_keywords
+from .enrich import enrich_raw_call
 
-
-def _compute_status(deadline: dt.date | None) -> str:
-    if deadline is None:
-        return "Por confirmar"
-    return "Vigente" if deadline >= dt.date.today() else "Cerrada"
-
-
-def enrich_raw_call(raw: dict, entity: models.Entity) -> dict:
-    """Convierte un diccionario crudo de un adaptador en los campos del modelo Call."""
-    raw_text = raw.get("raw_text") or raw.get("description") or ""
-    title = (raw.get("title") or "").strip()
-
-    deadline_text = raw.get("deadline_date_text") or extract_deadline(raw_text)
-    deadline_parsed = parse_date_generic(deadline_text)
-
-    amount_text, amount_value, amount_currency = extract_amount(raw_text)
-    objective = extract_objective(raw_text, title)
-    eligibility, eligibility_note = assess_university_eligibility(raw_text)
-    sdg_list = classify_sdg(raw_text or title)
-    keywords = extract_theme_keywords(raw_text or title)
-
-    return {
-        "title": title or "(sin título)",
-        "link": raw.get("link") or "",
-        "objective": objective,
-        "description": (raw_text or "")[:4000],
-        "opening_date_text": raw.get("opening_date_text") or "",
-        "deadline_date_text": deadline_text,
-        "deadline_date": deadline_parsed,
-        "amount_text": amount_text,
-        "amount_value": amount_value,
-        "amount_currency": amount_currency,
-        "scope": entity.scope,
-        "sdg_list": ",".join(sdg_list),
-        "theme_keywords": ",".join(keywords),
-        "university_eligibility": eligibility,
-        "university_eligibility_note": eligibility_note,
-        "status": _compute_status(deadline_parsed),
-    }
+__all__ = ["run_scrape_for_entity", "enrich_raw_call"]
 
 
 def run_scrape_for_entity(db: Session, entity: models.Entity) -> models.ScrapeLog:
@@ -75,7 +35,7 @@ def run_scrape_for_entity(db: Session, entity: models.Entity) -> models.ScrapeLo
         for raw in raw_calls:
             if not raw.get("link") or not raw.get("title"):
                 continue
-            enriched = enrich_raw_call(raw, entity)
+            enriched = enrich_raw_call(raw, entity.scope)
 
             existing = (
                 db.query(models.Call)
@@ -109,6 +69,3 @@ def run_scrape_for_entity(db: Session, entity: models.Entity) -> models.ScrapeLo
         db.commit()
 
     return log
-
-
-__all__ = ["run_scrape_for_entity", "enrich_raw_call"]

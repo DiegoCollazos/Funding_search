@@ -1,0 +1,5 @@
+# Dependencias mínimas para scripts/run_scraping.py (usado por el workflow
+# de GitHub Actions de la variante estática GitHub Pages). Para el backend
+# completo con base de datos usa requirements.txt en la raíz del proyecto.
+requests>=2.31
+beautifulsoup4>=4.12
