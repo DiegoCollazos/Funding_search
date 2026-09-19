@@ -10,7 +10,7 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
     "last_message": "10 convocatoria(s) encontradas, 10 nueva(s)."
   },
@@ -25,9 +25,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "15 convocatoria(s) encontradas, 15 nueva(s)."
+    "last_message": "15 convocatoria(s) encontradas, 0 nueva(s)."
   },
   {
     "id": "fontagro",
@@ -40,7 +40,7 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "error",
     "last_message": "404 Client Error: Not Found for url: https://fontagro.org/en/new/convocatorias"
   },
@@ -55,7 +55,7 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "error",
     "last_message": "404 Client Error: Not Found for url: https://ibro.org/grants-prizes/"
   },
@@ -70,9 +70,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "15 convocatoria(s) encontradas, 15 nueva(s)."
+    "last_message": "15 convocatoria(s) encontradas, 0 nueva(s)."
   },
   {
     "id": "research-council-of-finland-academy-of-finland",
@@ -85,9 +85,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "15 convocatoria(s) encontradas, 15 nueva(s)."
+    "last_message": "15 convocatoria(s) encontradas, 0 nueva(s)."
   },
   {
     "id": "wellcome-trust",
@@ -100,9 +100,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "15 convocatoria(s) encontradas, 15 nueva(s)."
+    "last_message": "15 convocatoria(s) encontradas, 0 nueva(s)."
   },
   {
     "id": "minambiente-convocatorias",
@@ -115,9 +115,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "15 convocatoria(s) encontradas, 15 nueva(s)."
+    "last_message": "15 convocatoria(s) encontradas, 0 nueva(s)."
   },
   {
     "id": "minciencias-convocatorias",
@@ -130,9 +130,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "5 convocatoria(s) encontradas, 5 nueva(s)."
+    "last_message": "5 convocatoria(s) encontradas, 1 nueva(s)."
   },
   {
     "id": "mincultura-convocatorias",
@@ -145,9 +145,9 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "7 convocatoria(s) encontradas, 7 nueva(s)."
+    "last_message": "8 convocatoria(s) encontradas, 1 nueva(s)."
   },
   {
     "id": "mineducacion-convocatorias",
@@ -160,7 +160,7 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "error",
     "last_message": "404 Client Error: Not Found for url: https://www.mineducacion.gov.co/portal/convocatorias/"
   },
@@ -175,7 +175,7 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "error",
     "last_message": "404 Client Error: Not Found for url: https://www.minenergia.gov.co/es/convocatorias/"
   },
@@ -190,8 +190,8 @@
     "scraper_config": {},
     "schedule_frequency": "semanal",
     "active": true,
-    "last_scraped_at": "2026-09-11T09:07:02.317102",
+    "last_scraped_at": "2026-09-19T09:06:56.410166",
     "last_status": "ok",
-    "last_message": "3 convocatoria(s) encontradas, 3 nueva(s)."
+    "last_message": "3 convocatoria(s) encontradas, 0 nueva(s)."
   }
 ]
