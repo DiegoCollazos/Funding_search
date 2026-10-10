@@ -20,7 +20,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"en alianza\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:57.066520",
-    "last_seen_at": "2026-10-03T14:07:55.286354"
+    "last_seen_at": "2026-10-10T14:59:08.819362"
   },
   {
     "id": "mintic-convocatorias-c7f74c2c9f2d",
@@ -43,7 +43,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:57.066520",
-    "last_seen_at": "2026-10-03T14:07:55.286354"
+    "last_seen_at": "2026-10-10T14:59:08.819362"
   },
   {
     "id": "mintic-convocatorias-5da1b41a4fa4",
@@ -66,7 +66,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:57.066520",
-    "last_seen_at": "2026-10-03T14:07:55.286354"
+    "last_seen_at": "2026-10-10T14:59:08.819362"
   },
   {
     "id": "wellcome-trust-51e9feb7d484",
@@ -89,7 +89,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-428c3fb2eb7c",
@@ -112,7 +112,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"in partnership with\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-fa1f1617725a",
@@ -129,13 +129,13 @@
     "amount_value": null,
     "amount_currency": "",
     "scope": "Internacional",
-    "sdg_list": "3,9,12,13,14,16,17",
-    "theme_keywords": "health,disease,innovation,production,climate change,clima,climate action,mar",
+    "sdg_list": "3,9,13,14,16,17",
+    "theme_keywords": "health,disease,innovation,climate change,clima,climate action,mar,institutions",
     "university_eligibility": "Por verificar",
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-1bf124382622",
@@ -158,7 +158,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-1c871fd7c685",
@@ -181,7 +181,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-547f1191d33c",
@@ -204,7 +204,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-97e52140ce35",
@@ -227,7 +227,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-fef6e5438cd3",
@@ -250,7 +250,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"in partnership with\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-a3da1dc7a1e0",
@@ -273,7 +273,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-5dac6aec36fe",
@@ -296,7 +296,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-87d154e3bef8",
@@ -319,7 +319,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-fecb9c7c4f62",
@@ -342,7 +342,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-4bd9acc6d2b0",
@@ -365,7 +365,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-d47c2eb63a29",
@@ -388,7 +388,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "wellcome-trust-b03922462590",
@@ -411,7 +411,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:40.409168",
-    "last_seen_at": "2026-10-03T14:07:36.579998"
+    "last_seen_at": "2026-10-10T14:58:57.655161"
   },
   {
     "id": "minciencias-convocatorias-68816e00d964",
@@ -503,7 +503,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:47.209743",
-    "last_seen_at": "2026-10-03T14:07:50.865702"
+    "last_seen_at": "2026-10-10T14:59:04.724515"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-b4c5e68e9831",
@@ -512,21 +512,21 @@
     "title": "Press releases and news",
     "link": "https://www.aka.fi/en/about-the-rcf/whats-new/press-releases/",
     "objective": "Press releases and news - Research Council of Finland\nTo main content\nAbout the RCF\nAbout us\nRCF at a glance\nStrategy\nSustainable development\nAcademicians of Science\nRCF Awards\nWorking at the RCF\nContact us\nRCF organisation\nOrganisation\nManagement\nDecision-making bodies\nWhat's new\nPress releases and news\nOpinions\nNewsletter\nBlog\nEvents\nMedia services\nResearch funding\nFunding opportunities\nSpark funding\nAcademy Project Funding\nAcademy Research Fellowship\nAcademy Professorship\nClinical Researcher Funding\nForge funding\nFinnish Flagships\nResearch infrastructures\nFinnish Centres of Excellence\nInter",
-    "description": "Press releases and news - Research Council of Finland\nTo main content\nAbout the RCF\nAbout us\nRCF at a glance\nStrategy\nSustainable development\nAcademicians of Science\nRCF Awards\nWorking at the RCF\nContact us\nRCF organisation\nOrganisation\nManagement\nDecision-making bodies\nWhat's new\nPress releases and news\nOpinions\nNewsletter\nBlog\nEvents\nMedia services\nResearch funding\nFunding opportunities\nSpark funding\nAcademy Project Funding\nAcademy Research Fellowship\nAcademy Professorship\nClinical Researcher Funding\nForge funding\nFinnish Flagships\nResearch infrastructures\nFinnish Centres of Excellence\nInternational collaboration in high-performance computing\nShift funding\nProof of Concept Funding\nFunding for clinical research\nFunding for university research profiles\nInternational funding cooperation\nFunding from EU Recovery and Resilience Facility (RRF)\nSport Science and Physical Activity – ACTIVE\nStrategic research funding\nApply for funding\nCalls for applications\nA–Z index of application guidelines\nAsk & Apply\nHow to use funding\nReport on your project\nReview and funding decisions\nHow applications are reviewed\nReview and decision-making\nGuidelines and forms for reviewers\nHow decisions are made\nFunding decisions\nResponsible Science\nFrom research to society\nResearch impact\nNew knowledge\nExpertise and experts\nInnovations for business and society\nRCF impact\nData dashboards\nPublications\nInternational cooperation\nOpinions\nEvents\nResponsible science\nResponsible research funding\nGood scientific practice and research ethics\nResearch security\nEquality and nondiscrimination\nOpen science\nSustainable development\nResponsible researcher evaluation\nOnline services\nFI\nSV\nFI\nSV\nOnline services\nResearch Council of Finland\nAbout the RCF\nWhat's new\nPress releases and news\nPress releases and news\nRelease\n1 Oct 2026\nRCF to open call for applications under ACTIVE programme on 21 October\nRelease\n24 Sep 2026\nApplications to RCF winter call invited between 14 October and 11 November 2026\nRelease\n8 Sep 2026\nStrategic research funding granted for research on the changing Arctic region and public mental health\nNews\n23 Jun 2026\nFinland scores high in ERC Advance Grants competition\nRelease\n17 Jun 2026\nSRC decides on funding for second period of projects researching the just green transition\nRelease\n16 Jun 2026\nProposed strategic research themes focus on strengthening common security and securing strategic resources\nRelease\n15 Jun 2026\nMinistry of Education and Culture: New vision for higher education and research for Finland\nRelease\n12 Jun 2026\nNew Academy Research Fellows and Academy Projects selected in social sciences and humanities\nRelease\n11 Jun 2026\nRCF funds new Academy Research Fellows and Academy Projects in biosciences, health and environmental research\nRelease\n10 Jun 2026\nRCF selects new Academy Research Fellows and Academy Projects in natural sciences and engineering\nRelease\n4 Jun 2026\nRCF changes principles of Academy Project call, raises ambition level of projects\nRelease\n2 Jun 2026\nFunding by Research Council of Finland brings next batch of top international researchers to Finnish universities\nRelease\n25 May 2026\nRCF’s spring calls seek answers to topical societal challenges\nRelease\n19 May 2026\nComment on draft versions of new strategic research themes – sign up for public consultation\nNews\n8 May 2026\nRCF President Paula Eerola appointed as member of ERC Identification Committee\nRelease\n5 May 2026\nRCF announces funding decisions on sport science projects\nNews\n27 Apr 2026\nAcademy Project reform progressing: Summary of survey results completed\nRelease\n20 Apr 2026\n36 applications submitted to fifth Finnish Flagship call\nRelease\n17 Apr 2026\nAdvance information on RCF call schedules for autumn 2026\nNews\n13 Apr 2026\nRCF updates its core values\nRelease\n17 Mar 2026\nProjects selected for second stage of SRC programme call\nRelease\n5 Mar 2026\nRCF’s spring call texts and review documents out now\nNews\n3 Mar 2026\nWinter call feedback\nRelease\n2 Mar 2026\nFunding decisions ",
+    "description": "Press releases and news - Research Council of Finland\nTo main content\nAbout the RCF\nAbout us\nRCF at a glance\nStrategy\nSustainable development\nAcademicians of Science\nRCF Awards\nWorking at the RCF\nContact us\nRCF organisation\nOrganisation\nManagement\nDecision-making bodies\nWhat's new\nPress releases and news\nOpinions\nNewsletter\nBlog\nEvents\nMedia services\nResearch funding\nFunding opportunities\nSpark funding\nAcademy Project Funding\nAcademy Research Fellowship\nAcademy Professorship\nClinical Researcher Funding\nForge funding\nFinnish Flagships\nResearch infrastructures\nFinnish Centres of Excellence\nInternational collaboration in high-performance computing\nShift funding\nProof of Concept Funding\nFunding for clinical research\nFunding for university research profiles\nInternational funding cooperation\nFunding from EU Recovery and Resilience Facility (RRF)\nSport Science and Physical Activity – ACTIVE\nStrategic research funding\nApply for funding\nCalls for applications\nA–Z index of application guidelines\nAsk & Apply\nHow to use funding\nReport on your project\nReview and funding decisions\nHow applications are reviewed\nReview and decision-making\nGuidelines and forms for reviewers\nHow decisions are made\nFunding decisions\nResponsible Science\nFrom research to society\nResearch impact\nNew knowledge\nExpertise and experts\nInnovations for business and society\nRCF impact\nData dashboards\nPublications\nInternational cooperation\nOpinions\nEvents\nResponsible science\nResponsible research funding\nGood scientific practice and research ethics\nResearch security\nEquality and nondiscrimination\nOpen science\nSustainable development\nResponsible researcher evaluation\nOnline services\nFI\nSV\nFI\nSV\nOnline services\nResearch Council of Finland\nAbout the RCF\nWhat's new\nPress releases and news\nPress releases and news\nRelease\n9 Oct 2026\nHonorary title of Academician of Science conferred to Maarit Karppinen, Martti Nissinen and Seppo Ylä-Herttuala\nRelease\n9 Oct 2026\nSeppo Ylä-Herttuala receives honorary title of Academician of Science\nRelease\n9 Oct 2026\nMartti Nissinen receives honorary title of Academician of Science\nRelease\n9 Oct 2026\nMaarit Karppinen receives honorary title of Academician of Science\nRelease\n8 Oct 2026\nRCF grants funding for Finnish-American research in telecommunications technology\nRelease\n1 Oct 2026\nRCF to open call for applications under ACTIVE programme on 21 October\nRelease\n24 Sep 2026\nApplications to RCF winter call invited between 14 October and 11 November 2026\nRelease\n8 Sep 2026\nStrategic research funding granted for research on the changing Arctic region and public mental health\nNews\n23 Jun 2026\nFinland scores high in ERC Advance Grants competition\nRelease\n17 Jun 2026\nSRC decides on funding for second period of projects researching the just green transition\nRelease\n16 Jun 2026\nProposed strategic research themes focus on strengthening common security and securing strategic resources\nRelease\n15 Jun 2026\nMinistry of Education and Culture: New vision for higher education and research for Finland\nRelease\n12 Jun 2026\nNew Academy Research Fellows and Academy Projects selected in social sciences and humanities\nRelease\n11 Jun 2026\nRCF funds new Academy Research Fellows and Academy Projects in biosciences, health and environmental research\nRelease\n10 Jun 2026\nRCF selects new Academy Research Fellows and Academy Projects in natural sciences and engineering\nRelease\n4 Jun 2026\nRCF changes principles of Academy Project call, raises ambition level of projects\nRelease\n2 Jun 2026\nFunding by Research Council of Finland brings next batch of top international researchers to Finnish universities\nRelease\n25 May 2026\nRCF’s spring calls seek answers to topical societal challenges\nRelease\n19 May 2026\nComment on draft versions of new strategic research themes – sign up for public consultation\nNews\n8 May 2026\nRCF President Paula Eerola appointed as member of ERC Identification Committee\nRelease\n5 May 2026\nRCF announces funding decisions on sport science projects\nNews\n27 Apr 2026\nAca",
     "opening_date_text": "",
-    "deadline_date_text": "1 Oct 2026",
-    "deadline_date": "2026-10-01",
+    "deadline_date_text": "9 Oct 2026",
+    "deadline_date": "2026-10-09",
     "amount_text": "",
     "amount_value": null,
     "amount_currency": "",
     "scope": "Internacional",
     "sdg_list": "3,4,9,14,17",
-    "theme_keywords": "health,clinical,education,university,innovation,infrastructure,mar,international cooperation",
+    "theme_keywords": "health,clinical,education,university,innovation,infrastructure,technology,mar",
     "university_eligibility": "Por verificar",
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Cerrada",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "minciencias-convocatorias-5e5ca6f1dc56",
@@ -549,7 +549,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"en alianza\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Vigente",
     "first_seen_at": "2026-09-19T09:07:41.968346",
-    "last_seen_at": "2026-10-03T14:07:50.865702"
+    "last_seen_at": "2026-10-10T14:59:04.724515"
   },
   {
     "id": "minciencias-convocatorias-0dd487c12578",
@@ -572,7 +572,7 @@
     "university_eligibility_note": "El texto menciona explícitamente a universidades o entidades públicas como elegibles (\"entidades territoriales\").",
     "status": "Vigente",
     "first_seen_at": "2026-09-26T13:35:59.436132",
-    "last_seen_at": "2026-10-03T14:07:50.865702"
+    "last_seen_at": "2026-10-10T14:59:04.724515"
   },
   {
     "id": "demo-1",
@@ -599,6 +599,29 @@
     "status": "Vigente",
     "first_seen_at": "2026-09-10T21:38:58.151453",
     "last_seen_at": "2026-09-10T21:38:58.151453"
+  },
+  {
+    "id": "minciencias-convocatorias-9f969b094188",
+    "entity_id": "minciencias-convocatorias",
+    "entity_name": "MinCiencias – Convocatorias",
+    "title": "Convocatoria de emergencia para la recuperación y generación de capacidades transformadoras, en el marco del decreto 1414 de 17 de septiembre de 2026",
+    "link": "https://minciencias.gov.co/node/9577",
+    "objective": "Conformar un banco de proyectos elegibles para financiación con recursos de la Asignación para la Ciencia, Tecnología e Innovación del Sistema General de Regalías, orientados a adaptar, validar, transferir, apropiar o escalar, tecnologías e innovaciones que contribuyan a la atención, recuperación y\nConvocatoria de emergencia para la recuperación y generación de capacidades transformadoras, en el marco del decreto 1414 de 17 de septiembre de 2026 | Convocatoria 56 | Minciencias\nSeguir al contenido principal\nA+\nA-\nAlto contraste\nENG\n|\nFRA\n|\nPOR\n|\nESP\nCabecera\nQuiénes Somos\nContratación\nPrensa\nMe",
+    "description": "Conformar un banco de proyectos elegibles para financiación con recursos de la Asignación para la Ciencia, Tecnología e Innovación del Sistema General de Regalías, orientados a adaptar, validar, transferir, apropiar o escalar, tecnologías e innovaciones que contribuyan a la atención, recuperación y\nConvocatoria de emergencia para la recuperación y generación de capacidades transformadoras, en el marco del decreto 1414 de 17 de septiembre de 2026 | Convocatoria 56 | Minciencias\nSeguir al contenido principal\nA+\nA-\nAlto contraste\nENG\n|\nFRA\n|\nPOR\n|\nESP\nCabecera\nQuiénes Somos\nContratación\nPrensa\nMenu\nInicio\nEl Ministerio\nSobre Minciencias\nFunciones\nHistoria del Ministerio\nGuía de uso de la marca de Gobierno de Colombia Minciencias\nLogo Minciencias\nVisión y Misión\nValores Institucionales\nOrganigrama\nSedes y Horarios\nViceministerios\nConocimiento, innovación y productividad\nFunciones del viceministerio\nDirección de Ciencia\nDirección de Desarrollo Tecnológico e Innovación\nTalento y Apropiación Social\nFunciones del viceministerio\nDirección de Capacidades y Apropiación del Conocimiento\nDirección de Vocaciones y Formación\nDirección Gestión de Recursos CTel\nOferta institucional\nProgramación de Oferta Institucional\nProgramas y Proyectos de CTeI\nMovilidad Internacional\nFortalecimiento de capacidades\nInnovación y Productividad\nFormación y vinculación de Capital Humano de Alto Nivel\nApropiación Social del Conocimiento\nVocaciones Científicas de CteI\nInvitación para presentación de propuestas\nConvocatorias de otras vigencias cierre en 2020\nTodas las convocatorias\nPlan de Convocatorias FCTeI 2019 -2020\nPlan de Convocatorias ASCTeI 2021 -2022\nPlan de Convocatorias ASCTeI 2023-2024\nPlan de Convocatorias ACTeI 2025-2026\nConcursos\nScienTI y SIGP\nCvLAC\nGrupLAC\nInstituLAC\nCréditos Condonables\nFormación de Alto Nivel\nParticipación Proyectos y Programas\nRegistro Entidades\nBeneficios Tributarios\nReconocimiento de Actores\nPatentes e Invenciones\nPublindex\nGestión de Proyectos y Seguimiento - GPS\nCiencia y Tecnología para Todos\nServicio de Pares Evaluadores\nTransparencia y Acceso a la\nInformación Pública\nAtención al ciudadano\nDatos de contacto\nCanales de atención\nFormulario PQDRS\nTrámites y servicios\nAyuda a la ciudadanía\nInformes de gestión\nChat Minciencias\nGlosario\nPreguntas Frecuentes\nEncuesta de satisfacción y resultados\nParticipa\nSec. OCAD FCTeI\nPlan de Convocatorias FCTeI 2019 -2020\nPlan de Convocatorias ASCTeI 2021 -2022\nPlan de Convocatorias ASCTeI 2023-2024\nPlan de Convocatorias ACTeI 2025-2026\nFondo de Ciencia, Tecnología e Innovación\nGuia Sectorial\nProyectos\nEvaluadores convocatorias SGR\nBuscar\nBuscar\nUsted está aquí\nInicio\nConvocatoria de emergencia para la recuperación y generación de capacidades transformadoras, en el marco del decreto 1414 de 17 de septiembre de 2026\nNúmero convocatoria:\n56\nNúmero:\n56\nObjetivo:\nConformar un banco de proyectos elegibles para financiación con recursos de la Asignación para la Ciencia, Tecnología e Innovación del Sistema General de Regalías, orientados a adaptar, validar, transferir, apropiar o escalar, tecnologías e innovaciones que contribuyan a la atención, recuperación y reconstrucción de los territorios afectados de los departamentos de Antioquia, Bolívar, Caldas, Caquetá, Cauca, Chocó, Cundinamarca, Huila, Nariño, Norte de Santander, Quindío, Risaralda, Santander, Sucre, Tolima y Valle del Cauca, en el marco de la Emergencia Económica, Social y Ecológica declarada mediante el Decreto 1261 de 2026, modificado por el Decreto 1348 de 2026.\nEje temático:\n5.1. CIENCIA, TECNOLOGÍA E INNOVACIÓN PARA LA GESTIÓN ANTICIPADA DEL RIESGO Y LA SEGURIDAD DE LAS REGIONES\nOrientada a generar, integrar y aplicar conocimiento científico, datos y tecnologías para comprender, caracterizar, modelar, monitorear y anticipar amenazas, vulnerabilidades y riesgos; evaluar daños; generar información para la toma de decisiones; fortalecer la observación territorial y el monitoreo de infraestructura crítica; y desarrollar sistemas de al",
+    "opening_date_text": "Jueves, Octubre 8, 2026",
+    "deadline_date_text": "martes 03 noviembre 2026 04:00 pm",
+    "deadline_date": "2026-11-03",
+    "amount_text": "",
+    "amount_value": null,
+    "amount_currency": "",
+    "scope": "Nacional",
+    "sdg_list": "2,3,4,8,9,11,14,15",
+    "theme_keywords": "seguridad alimentaria,salud,formación,emprendimiento,industria,innovación,infraestructura,tecnología",
+    "university_eligibility": "Por verificar",
+    "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
+    "status": "Vigente",
+    "first_seen_at": "2026-10-10T14:59:04.724515",
+    "last_seen_at": "2026-10-10T14:59:04.724515"
   },
   {
     "id": "demo-3",
@@ -671,7 +694,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"consortium\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-a0d383f57a83",
@@ -694,7 +717,7 @@
     "university_eligibility_note": "El texto menciona explícitamente a universidades o entidades públicas como elegibles (\"higher education institutions\").",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-1394b77b6936",
@@ -740,7 +763,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-91efc9ac06dd",
@@ -763,7 +786,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-1a7c5fa8d90a",
@@ -786,7 +809,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"consortium\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-bed734de6207",
@@ -809,7 +832,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "idrc-international-development-research-centre-7860e5ba5dd3",
@@ -832,7 +855,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "mincultura-convocatorias-8f9041686538",
@@ -924,7 +947,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "idrc-international-development-research-centre-68051144c4d5",
@@ -947,7 +970,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "idrc-international-development-research-centre-e413423042d6",
@@ -970,7 +993,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-4050468ba283",
@@ -1039,7 +1062,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "idrc-international-development-research-centre-d6a9e0a65e28",
@@ -1062,7 +1085,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "mincultura-convocatorias-7137b5041831",
@@ -1131,7 +1154,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-fda7b5f627c9",
@@ -1154,7 +1177,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-26d280279dd4",
@@ -1177,7 +1200,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-ab79631090d3",
@@ -1200,7 +1223,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-651e37de0bdf",
@@ -1223,7 +1246,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-045df02cc05b",
@@ -1246,7 +1269,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-bc5d399087f9",
@@ -1269,7 +1292,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-3700e5afa999",
@@ -1292,7 +1315,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-cf287ff12e32",
@@ -1315,7 +1338,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-4570ad1e5505",
@@ -1338,7 +1361,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-58dd79264d54",
@@ -1361,7 +1384,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-5e9e86b4311a",
@@ -1384,7 +1407,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-ad068cbf7f10",
@@ -1407,7 +1430,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-3fefd6725ed6",
@@ -1430,7 +1453,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minambiente-convocatorias-b8a433a9283a",
@@ -1453,7 +1476,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:42.486526",
-    "last_seen_at": "2026-10-03T14:07:43.676537"
+    "last_seen_at": "2026-10-10T14:58:59.797968"
   },
   {
     "id": "minciencias-convocatorias-8683b29420e6",
@@ -1461,7 +1484,7 @@
     "entity_name": "MinCiencias – Convocatorias",
     "title": "Convocatoria Fortalecimiento De Capacidades Nacionales Para La Soberanía Sanitaria De Colombia",
     "link": "https://minciencias.gov.co/node/9542",
-    "objective": "s of website accessibility Fecha de última actualización Viernes, Octubre 2, 2026 - 3:18pm | Política de Términos, Datos Personales y Condiciones de Uso Conoce GOV.CO aquí",
+    "objective": "s of website accessibility Fecha de última actualización Viernes, Octubre 9, 2026 - 11:46pm | Política de Términos, Datos Personales y Condiciones de Uso Conoce GOV.CO aquí",
     "description": "Impulsar la investigación, el desarrollo y la innovación en salud para fortalecer las capacidades locales y territoriales, ampliar  la disponibilidad de conocimientos, tecnologías y servicios  innovadores, y consolidar la soberanía sanitaria del país  mediante la promoción de solucion\nConvocatoria Fortalecimiento De Capacidades Nacionales Para La Soberanía Sanitaria De Colombia | Convocatoria 978 | Minciencias\nSeguir al contenido principal\nA+\nA-\nAlto contraste\nENG\n|\nFRA\n|\nPOR\n|\nESP\nCabecera\nQuiénes Somos\nContratación\nPrensa\nMenu\nInicio\nEl Ministerio\nSobre Minciencias\nFunciones\nHistoria del Ministerio\nGuía de uso de la marca de Gobierno de Colombia Minciencias\nLogo Minciencias\nVisión y Misión\nValores Institucionales\nOrganigrama\nSedes y Horarios\nViceministerios\nConocimiento, innovación y productividad\nFunciones del viceministerio\nDirección de Ciencia\nDirección de Desarrollo Tecnológico e Innovación\nTalento y Apropiación Social\nFunciones del viceministerio\nDirección de Capacidades y Apropiación del Conocimiento\nDirección de Vocaciones y Formación\nDirección Gestión de Recursos CTel\nOferta institucional\nProgramación de Oferta Institucional\nProgramas y Proyectos de CTeI\nMovilidad Internacional\nFortalecimiento de capacidades\nInnovación y Productividad\nFormación y vinculación de Capital Humano de Alto Nivel\nApropiación Social del Conocimiento\nVocaciones Científicas de CteI\nInvitación para presentación de propuestas\nConvocatorias de otras vigencias cierre en 2020\nTodas las convocatorias\nPlan de Convocatorias FCTeI 2019 -2020\nPlan de Convocatorias ASCTeI 2021 -2022\nPlan de Convocatorias ASCTeI 2023-2024\nPlan de Convocatorias ACTeI 2025-2026\nConcursos\nScienTI y SIGP\nCvLAC\nGrupLAC\nInstituLAC\nCréditos Condonables\nFormación de Alto Nivel\nParticipación Proyectos y Programas\nRegistro Entidades\nBeneficios Tributarios\nReconocimiento de Actores\nPatentes e Invenciones\nPublindex\nGestión de Proyectos y Seguimiento - GPS\nCiencia y Tecnología para Todos\nServicio de Pares Evaluadores\nTransparencia y Acceso a la\nInformación Pública\nAtención al ciudadano\nDatos de contacto\nCanales de atención\nFormulario PQDRS\nTrámites y servicios\nAyuda a la ciudadanía\nInformes de gestión\nChat Minciencias\nGlosario\nPreguntas Frecuentes\nEncuesta de satisfacción y resultados\nParticipa\nSec. OCAD FCTeI\nPlan de Convocatorias FCTeI 2019 -2020\nPlan de Convocatorias ASCTeI 2021 -2022\nPlan de Convocatorias ASCTeI 2023-2024\nPlan de Convocatorias ACTeI 2025-2026\nFondo de Ciencia, Tecnología e Innovación\nGuia Sectorial\nProyectos\nEvaluadores convocatorias SGR\nBuscar\nBuscar\nUsted está aquí\nInicio\nConvocatoria Fortalecimiento De Capacidades Nacionales Para La Soberanía Sanitaria De Colombia\nNúmero:\n978\nObjetivo:\nImpulsar la investigación, el desarrollo y la innovación en salud para fortalecer las capacidades locales y territoriales, ampliar  la disponibilidad de conocimientos, tecnologías y servicios  innovadores, y consolidar la soberanía sanitaria del país  mediante la promoción de soluciones que respondan a las  necesidades en salud de la población.\n1. Fortalecimiento de la cadena de valor de producción de tecnologías estratégicas en salud.\n2. Investigación intersectorial con enfoque de Una Salud  (One Health) para la vigilancia, prevención y control de la resistencia antimicrobiana:\n3. Investigación en trabajos de cuidado, economía del  cuidado y salud mental\n4. Investigación en el diseño, evaluación y fortalecimiento de modelos integrales de atención en  salud para la persona mayor\n5. Eliminación y sostenimiento de la eliminación de enfermedades transmisibles y condiciones prioritarias\n6. Investigación en enfermedades crónicas no transmisibles y cáncer\n7. Fortalecimiento para la detección temprana y la atención integral en enfermedades huérfanas/raras\n8. Fortalecimiento de la evidencia para la reducción de  riesgos y daños en el consumo de sustancias psicoactivas\nDirigida a:\nLas propuestas deberán presentarse a través de una alianza estratégica conformada por una (1) entidad ejecuto",
     "opening_date_text": "Miércoles, Julio 15, 2026",
     "deadline_date_text": "57 de 2025",
@@ -1476,7 +1499,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:47.209743",
-    "last_seen_at": "2026-10-03T14:07:50.865702"
+    "last_seen_at": "2026-10-10T14:59:04.724515"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-b0ba9453abfa",
@@ -1499,7 +1522,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "mincultura-convocatorias-045e52046a1c",
@@ -1522,7 +1545,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-19T09:07:44.364327",
-    "last_seen_at": "2026-09-26T13:36:04.472552"
+    "last_seen_at": "2026-10-10T14:59:05.699604"
   },
   {
     "id": "european-commission-funding-tenders-portal-dcc3b30b8016",
@@ -1545,7 +1568,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-d2d8daef9b95",
@@ -1568,7 +1591,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "idrc-international-development-research-centre-469a6907fc11",
@@ -1591,7 +1614,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "idrc-international-development-research-centre-85a372ea8d7e",
@@ -1614,7 +1637,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "idrc-international-development-research-centre-9b1c97fc2b3d",
@@ -1637,7 +1660,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-60b1b1740147",
@@ -1683,7 +1706,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-d0ddcfd01d4a",
@@ -1706,7 +1729,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-10f568b30476",
@@ -1729,7 +1752,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-54db6e05dafe",
@@ -1798,7 +1821,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "idrc-international-development-research-centre-92ed6a2619d9",
@@ -1821,7 +1844,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-65ca079ba0ce",
@@ -1867,7 +1890,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-872529be05a9",
@@ -1890,7 +1913,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "mincultura-convocatorias-6e7964b847e9",
@@ -1936,7 +1959,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-d692351ba941",
@@ -1959,7 +1982,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-3452437da2b1",
@@ -1982,7 +2005,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-1ee426129917",
@@ -2005,7 +2028,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-5d630ace0d26",
@@ -2074,7 +2097,7 @@
     "university_eligibility_note": "El texto menciona explícitamente a universidades o entidades públicas como elegibles (\"research organisations\").",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-3576db53a270",
@@ -2212,7 +2235,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"in partnership with\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-1019be330428",
@@ -2258,7 +2281,7 @@
     "university_eligibility_note": "El texto menciona explícitamente a universidades o entidades públicas como elegibles (\"research organisations\").",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-d1c383178207",
@@ -2281,7 +2304,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "mincultura-convocatorias-6523e3485917",
@@ -2305,6 +2328,29 @@
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:49.410066",
     "last_seen_at": "2026-09-26T13:36:04.472552"
+  },
+  {
+    "id": "mincultura-convocatorias-b9b805310ca5",
+    "entity_id": "mincultura-convocatorias",
+    "entity_name": "MinCultura – Convocatorias",
+    "title": "Resolución No. 0607 del 30 de septiembre de 2026",
+    "link": "https://saaeu2prdconvocatorias.blob.core.windows.net/conv-nacional/Avisos/a7faf312-8722-4864-a075-a11f43e1f80a.pdf?se=3026-10-01T05:13:03Z&sv=2024-08-04&sr=b&sig=VETjuG%2BS3MiHpURrUY0Cbs1qJNTX80832H6RcizGd2k%3D&sp=r",
+    "objective": "%PDF-1.3\n%���������\n3 0 obj\n<< /Filter /FlateDecode /Length 8964 >>\nstream\nx\u0001��͒��q���\u0014�LI��N\u0013�?�\u0013�d8�H�\\��a�0��]R�;��\u001f��\n��\u000e�EOe��\u000f~\u0002YY�(TU\u000f��\u001578�@\u0003�������\u000f��\u001f����ڡϫ�~��6Ϛ���6ok���>���&+��ɳˊ��G/���7�<�߼\u0000^�����:/Zs�bz�i�]��Y�W��ʋ�ꭹL�\u0016y^\u0017U;l�d�\u0018즷�C\u0002hC�k\u001a\n\u0005�rו>�f��6�An\n�\n�{\u0003m\u0018|h\u000e��\\���\u0003�z(�j\nk3TEW�\u0007�d*���x\u0003�i����do��i����so�s�P�t�\u0000ݽ\u001b��wf��%���e]��>��]���������������{����\u001f���\t�\u0016�Pu\u0007�\u0006�\n{��k��\u001f�O_Z^M<]��ӽGV-�l�����ϲ�\\\u0002��@�\u0006c���I\n\u0012�?d(� {x�E�\u001bzQ\u0000Sڬĳ��}B�wE�\u0000\nџ_\n*\u0011�a賺\u0019,4X\u0017�uf�}\nZ58��\n��{���]�>��3�\nUBF�\u001b,AY��|�\u0016��\u000f�^�`B�]��(\u000f\u0007��i�2�\"҆�\u0010\n�ห2l�b\u000e\n�\"�\n��ٳ\n�\"�ʜ\\�)���g\u00197>7?((��22��\nz\u0011\n̥�g\u001b�����o�Ȁ{\u0012j",
+    "description": "%PDF-1.3\n%���������\n3 0 obj\n<< /Filter /FlateDecode /Length 8964 >>\nstream\nx\u0001��͒��q���\u0014�LI��N\u0013�?�\u0013�d8�H�\\��a�0��]R�;��\u001f��\n��\u000e�EOe��\u000f~\u0002YY�(TU\u000f��\u001578�@\u0003�������\u000f��\u001f����ڡϫ�~��6Ϛ���6ok���>���&+��ɳˊ��G/���7�<�߼\u0000^�����:/Zs�bz�i�]��Y�W��ʋ�ꭹL�\u0016y^\u0017U;l�d�\u0018즷�C\u0002hC�k\u001a\n\u0005�rו>�f��6�An\n�\n�{\u0003m\u0018|h\u000e��\\���\u0003�z(�j\nk3TEW�\u0007�d*���x\u0003�i����do��i����so�s�P�t�\u0000ݽ\u001b��wf��%���e]��>��]���������������{����\u001f���\t�\u0016�Pu\u0007�\u0006�\n{��k��\u001f�O_Z^M<]��ӽGV-�l�����ϲ�\\\u0002��@�\u0006c���I\n\u0012�?d(� {x�E�\u001bzQ\u0000Sڬĳ��}B�wE�\u0000\nџ_\n*\u0011�a賺\u0019,4X\u0017�uf�}\nZ58��\n��{���]�>��3�\nUBF�\u001b,AY��|�\u0016��\u000f�^�`B�]��(\u000f\u0007��i�2�\"҆�\u0010\n�ห2l�b\u000e\n�\"�\n��ٳ\n�\"�ʜ\\�)���g\u00197>7?((��22��\nz\u0011\n̥�g\u001b�����o�Ȁ{\u0012j�l�Q�U�b^�~\nu�΁:\u0005\u001asJ���4\"!d3\no$��_)�\b\u001f�c0�ͨ����;�t5LfÛ��g\u000ePP�S6\"\u00192��&�\u0002�ʆ[�)��\u000e��o+�Z&��o�'`\u000e���\u001a,�g\n<�U)̂�\u0010�|\u0012�a7T=\u001a�\u0007*��\u0019U烯�]�7\u0011xX�CcF�\u0003�=��ѤF�wm����x\u000f�K�\u001f4�Oh���¿����;\n�%\u001f��[j\u0018\n�\u0012�\u0007�\u000f`^1��~��h�����o��\n5��8ں�\n^΁-��$�\n�f�b�]\u0018�^\n<ڢ+`���.Z�\n:$\u000f�\n��O����߿0����~���;�r�����Hu\n�\u0005\\9��ZI\u000f0��ᆥ\u0010���~�)dG�|�\u001f_.�}3Ҧ�:<�GXe`i�\n�\n~�p=��T�T}���\u0002��s\u0018��Ƨ�ſ�\b�h���k��aʖ\n��m�C��PQ�>��^�a����E�\u0018\n�Ϣ�\u0011Ӓ\u0000\b�X�\"|dM���\u0018�\u0004f�h\u0006�����,�w��\u0001�W�H�E1t\u000eG�UQ�\u0018��\u0000[�X_B�\u0004�y�\nML<�y�\u0012� \u0012#d7�\u001f`a�a��{�\u0012\u0014����xj|pM��<\u0019�E\u000f�`�\u0018�D�_����F̿�\u0011]g~�P���v���>\u001f\u0015x\u000f�:/��Ό�Z5G���Ym����h��\u001f�\u0010\u0000ށ��$D�iQ�\"E���\u0016�\t�H\t\u0018��) >y���G��(4�Kh�\u0010m���9���WtuK�A��R\u0012�j�u�\u0001����*\u001f�\u0003�yɋL�!\u000e!��l���WuU8����d�>�\u0018c�\n����\nuU\u0004����nﲷ�\u0018ﯿW�v�]�7�����]=�\u0017{6��s��Է�W��+{��]�[\u0003A��\u0004`x΋�\u001b@lĬ^���������&\u000f�$�/\u0010x�&���>@\u0010؀��F\u0017b�\u0003�\n�`,f���C�/7`����\u0019����a���\u001b�/�\u001b7��\u001b=v�����D{���p���쫿~k�u\u0018�_�g\u001f\u001b��=�Y'�������%�R�ޤi�K�\u000f��ԡ��V/\n-f\u000f��\n\u0019�\u0005�H%g�����U>��N��;M\u001f��ރ���\ndf&D�~��\u0018&b\u0011ƒ]�\u0013Ƨ��\u0013��\n�c\\�\u001a\u001fZ\\|\u0002O�դ\n<2�m�+\b)S���%��\u001a�A�4���NC���˂%2<�4����zl˜u�Jb��I;E�̇~\u0007�%!\u001b'b-eˢC�ɀ�\u0007\\\u0003ʖ\u0005AdC\u00028\u0005\u001a㹔�)o��M�k�Y\u0017m�\u00011YЃ=�\u000fz���ng\\�2/�g�\u0019�D\u000eDѐ���\nE\u000f�\nT��%�\b���,�9�OwHFx\n����{T�0�$~�u�>���K*}���EC'�IzMB�\u0018�<\u0013��\u0015^��:-��F��\u00182����ӱ���bW_�|\u001b#�,�B\n?\u0014H�h6�bgёf~(\u0013�\n\b�P���\u0015�0��\t��\u0019���;�Z�����,L��E^�\u0010M�\u0013#����x-�\u0005Y�]�#i1��4\n�Gd�k�AX&H@^B�H,�\u0006g�.އXN��h�@$6�H\u0000�?����p?�ʳ�\u0017�LE��\u0013�OQ�d�I𒌍Q���,''�\u001b\n2��\n����y��\u001b��\u0000��_�\n]��@�\\%5�rB\u001aÌ����b T�$u���o>��N?�6�0�qW�.J@_��詎V��ܒ�r}n��1G�79\t¦�S�\u000f�ۃ��)�݌��fL���,�+\u0001p�j��i2e$6�m��\u00184\"����E��$B�Sk\n�0�L\n�q[K*��\n<��|��8:l^�*d\u0012�5\u0011�\n�#T��#|����Q\n�羫v�@YN\u000244�\b\u001aB�\u001f\b<\u001b��L=�#�R,t\u0012녮p��\n(dk\u00061�\n�w:A��\"}uH�����\u0014^D��B@\u0002��l�3����\u0019�0�&\u0004�h��B������|����'\u0007��E����heP�T�\"?���A%�\u0015��2�)x?�r|\u0002\n+%%!U\n�b�����\u0001+�\b�e�`����'\n���UƱ�\u0010\u0002~X��<�\u0013��G4��p|\n�&�mE���\n��~^�Ǹ\u000eԁ�\u0013N1�\u0002��$���=ȭ\u0014I:�����w{��/�<۬��(��u\u0005p*P�^h�Ζ\n�m�̩R/I\n��?ő�6��\\\u0011��%��\n�9�0uÚp-Ix��1��a^������!DL�\u000e�\u000e�a\u001a�\u0013r�<�b�����j�\u0013�\u0016��q�z�b�635����K�k�0���H�\u0018�SZ5�gX=��,�%�y�^̃~�\u0015�+=r��\njia��cw����Aeke8H\u0010\u0014�@�,!@\u00024&y^�G̃�����\n��mYP����l�Ro��\u0015�F+G\n����ѧ�R�\u0010��tW���x��*R�/�\u0016\t��P\n�Fʽ��s��P�\u0017���,@\t�Nl�٨F��.٣ �b\u0002���Sص1��\u0017]\u0017\nW\u0003���\u0015\u0012Ȳ�\u0002��%�\u0000�!S\u0010�1A�GU�Y��$\u0005�$~�^oWYu\u00192�JTC��:�)#LЕ� =^�jM�c[�#2�\u000e�H���i*2FW|��Ӄ2\u0016��~%7\u0014�F׮\n�\u0002s�\n\u0016���\u001a�_\u0010��\n�\n�\u0018ܜ.-6���$S2����R��V�Ew\u0002ߔ%�v�\u0007���B>T�#`�ld�\u0013j��8\u0003�.G\u0015�py�S:lr�)��hK�~Jۖ�\u0000\n\u001a$\u0005��O .�\u000f�t���<\u000fݎ�#6\u0001\u0012i%�-O@\u0017��h,�%A��n�c�$��Ķz������R��\n]ٛ��\u0004�\u0019��m\nO�r���\u000e(�7��Y�}\n��\u0016\u00108��\n�Q��B\n�\u0005��\u0017\u0010F܋#L�Pa�\naW�O���^�mA6���� ���ItE�\n�9B�\u0010t�@��ؖ����\u0015B�gb[R�[�b�\u0014�\n4Y�nEާw��=�+�\u001f$��$��\u0016#[�<���9\u0013ٰ\u0018��\u0005�#���5��3\u0014��@\\SU���J^�Z������\u0014�\u0005nf�jk�V�\u0018�#m丵�\\�,\n%�\n�DЃL��毦\u001b\tCf�]q���0��B�\u0016��y�O�.�m.z��\u001a'$�]\n�,���\u000e9��\bqB�+�\nx���;*\u0001Ӡ\u0017pI\u0002Yɠ�m\n\u0002\u000e\u0012C�\u0011G�_��>5���&W\u0019���ԐR�\u0012�I�J��L�\u0013�\nY���\u001b!N,��쓖N�� �J9\n\u0015'J�.�L��'H�Y��\u000f�4�'mh���f3��X\n\u001a\u0003oy~PO���1\u0010�\u0018�a�|`~3JĒ\n&�/�J\u0000��\\|���˦5��K�>E~$�ښ\n�)��\u0011��\u0011����B�\u0010,םP+����Br���\u001b��\nU�QN4m��[�W��P|����WzҖbۤ0\tz�ʓ��zE��d���q��X\u0012��d�Ӡ��\"�3z'by򌲞�����\u0002%I/\tf\\}�hZ�\n�d��d\u001ae?�� m�$�^\"I������Y*^�$#�_Pv@R�*��0�#�8PR�!�v(g\u0019&FW\n��Bk\n�<�X�j�\u0002���m�J�\u0014�\u0005:2F����Z�4ĕ�F�\u001b+�-M\u0004�ز�2o�b|%wH�:\ns1�c�\b\u0019Cj����\u0004\u0003̧�\u0013\u0018�YI�<5E�\u0011��\u000f�\u0005f�NB�����@_D�R��������\u0012�@_��s�\u001f�lJ_�\u0004k�j_F�JN���[�:�q���W��\t�X���,�J}�l��#��\n\u0016\u000f#*R>ڳ=T�\b�\u0012YLő)�Z���]1��RX�3�Ձ���꘾#\u00174Xq\u001blm�\u001f����/�F\u0014��Rq���ï��c���/'s���c�Ԑ\n�\n�x����U�\u0011<�P\u0015^��ϫ�%�M6u\n�l\u0018��\u0012\u001aN\u0012�\u0010�w�{\t�h�`��^���]�HkNR>�sm�B\u0011/ч�\u000e^F\"y�ɼ�C\nVGz\u0011�!\u0017�=�͐�-����ٖ\n8�뵖������\n�\\����Jj��\u0007+ݶ��\n=Z\u000f�֘�\u0015X.\u0006�Wz�ۘ��\u0014\n睺{l2cI\nx\u0014;\u001a�`\\dKQ<��\u0016b\u0014\u0012�t�\u0018ƴ�\n��8�\u0011��R���Ď\t�\u0010b\u0019�$�\u0010k�6PK��\nWsJ�f�\t>�����2ʪ��œU)��d�5vA��-[ٝn��=��Y~e��\n��+w�z�q\u0015aʓr��Zw�[\u0016�������.�f\\{�G#\nr��]�'��̽5r�����\u001f�m\u000e�\u0011e{���\u0003�0�\u0018������_���RU�Nm�OW�gD��A+\u0001٢��9P��\u0006\u0007��k}�ݝ\u0013fGl",
+    "opening_date_text": "",
+    "deadline_date_text": "",
+    "deadline_date": null,
+    "amount_text": "$6",
+    "amount_value": 6.0,
+    "amount_currency": "USD",
+    "scope": "Nacional",
+    "sdg_list": "unknown",
+    "theme_keywords": "",
+    "university_eligibility": "Por verificar",
+    "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
+    "status": "Por confirmar",
+    "first_seen_at": "2026-10-10T14:59:05.699604",
+    "last_seen_at": "2026-10-10T14:59:05.699604"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-7871f3c455a1",
@@ -2335,22 +2381,22 @@
     "entity_name": "ANR – Agence Nationale de la Recherche",
     "title": "Scientific Integrity",
     "link": "https://anr.fr/en/anrs-role-in-research/commitments/scientific-integrity/",
-    "objective": "Scientific Integrity",
-    "description": "",
+    "objective": ", methodology or the results expected of their project and their applications",
+    "description": "Scientific Integrity | ANR\nsubmit a proposal\nPress\nJoin us\nFR\nEN\nANR's role in research\nANR is the project-based funding agency for research in France\nMenu\nANR's role in research\nAbout us\nCommitments\nFunding instruments\nPartnerships at national level\nEurope and International\nJobs and Careers\nANR's role in research\nAbout us\nAbout us\nMissions\nSelection processes\nOrganisation and Governance\nLe budget de l’ANR\nDocuments\nANR's role in research\nCommitments\nCommitments\nScientific Integrity\nGender aspects\nThe Nagoya Protocol\nOpen Science\nPromotion of Scientific, Technical and Industrial Culture (CSTI)\nSupporting research for sustainable development\nThe San Francisco Declaration\nQuality\nANR's role in research\nFunding instruments\nFunding instruments\nANR's role in research\nPartnerships at national level\nPartnerships at national level\nANR's role in research\nEurope and International\nEurope and International\nTransnational cooperation strategy\nSpecific initiatives and funding instruments\nANR's role in research\nJobs and Careers\nJobs and Careers\nHuman resources policy\nOur activities\nJoin us\nANR's role in research\nAbout us\nMissions\nMissions\nANR's role in research\nAbout us\nSelection processes\nSelection processes\nANR's role in research\nAbout us\nOrganisation and Governance\nOrganisation and Governance\nANR's role in research\nAbout us\nLe budget de l’ANR\nLe budget de l’ANR\nANR's role in research\nAbout us\nDocuments\nDocuments\nANR's role in research\nCommitments\nScientific Integrity\nScientific Integrity\nANR's role in research\nCommitments\nGender aspects\nGender aspects\nANR's role in research\nCommitments\nThe Nagoya Protocol\nThe Nagoya Protocol\nANR's role in research\nCommitments\nOpen Science\nOpen Science\nANR's role in research\nCommitments\nPromotion of Scientific, Technical and Industrial Culture (CSTI)\nPromotion of Scientific, Technical and Industrial Culture (CSTI)\nANR's role in research\nCommitments\nSupporting research for sustainable development\nSupporting research for sustainable development\nANR's role in research\nCommitments\nThe San Francisco Declaration\nThe San Francisco Declaration\nANR's role in research\nCommitments\nQuality\nQuality\nANR's role in research\nEurope and International\nTransnational cooperation strategy\nTransnational cooperation strategy\nANR's role in research\nEurope and International\nSpecific initiatives and funding instruments\nSpecific initiatives and funding instruments\nANR's role in research\nJobs and Careers\nHuman resources policy\nHuman resources policy\nANR's role in research\nJobs and Careers\nOur activities\nOur activities\nANR's role in research\nJobs and Careers\nJoin us\nJoin us\nCalls for proposals\nDiscover the ANR’s funding opportunities\nMenu\nCalls for proposals\nWork Programme 2027\nGeneric Call 2027\nWork Programme 2026\nGeneric Call 2026\nResults of the AAPG\nOpen calls and preannouncements\nFunding regulations\nFormer Work Programmes\nPast calls for proposals\nCalls for proposals\nWork Programme 2027\nWork Programme 2027\nCalls for proposals\nGeneric Call 2027\nGeneric Call 2027\nCalls for proposals\nWork Programme 2026\nWork Programme 2026\nCalls for proposals\nGeneric Call 2026\nGeneric Call 2026\nCalls for proposals\nResults of the AAPG\nResults of the AAPG\nAAPG 2026\nAAPG 2025\nAAPG 2024\nAAPG 2021\nAAPG 2021\nAAPG 2021\nAAPG 2020\nAAPG 2019\nAAPG 2018\nAAPG 2015\nAAPG 2014\nCalls for proposals\nOpen calls and preannouncements\nOpen calls and preannouncements\nCalls for proposals\nFunding regulations\nFunding regulations\nCalls for proposals\nFormer Work Programmes\nFormer Work Programmes\nCalls for proposals\nPast calls for proposals\nPast calls for proposals\nCalls for proposals\nResults of the AAPG\nAAPG 2026\nAAPG 2026\nCalls for proposals\nResults of the AAPG\nAAPG 2025\nAAPG 2025\nCalls for proposals\nResults of the AAPG\nAAPG 2024\nAAPG 2024\nCalls for proposals\nResults of the AAPG\nAAPG 2021\nAAPG 2021\nCalls for proposals\nResults of the AAPG\nAAPG 2021\nAAPG 2021\nCalls for proposals\nResults of the AAPG\nAAPG 2021\nAAPG 2021\nCalls for proposals\nResults of the AAPG\nAAPG 2020\nAAPG 2020\nCalls",
     "opening_date_text": "",
-    "deadline_date_text": "",
+    "deadline_date_text": "26\nAAPG 2025",
     "deadline_date": null,
     "amount_text": "",
     "amount_value": null,
     "amount_currency": "",
     "scope": "Internacional",
-    "sdg_list": "unknown",
-    "theme_keywords": "",
+    "sdg_list": "4,5,8,9,16,17",
+    "theme_keywords": "education,gender equality,gender,employment,industria,innovation,technology,institutions",
     "university_eligibility": "Por verificar",
-    "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
+    "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-c0bbc77337ae",
@@ -2373,7 +2419,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-5c6199990e04",
@@ -2396,7 +2442,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-b86790812ad9",
@@ -2419,7 +2465,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"in partnership with\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-2244364e6240",
@@ -2465,7 +2511,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"consortium\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-c5b580243290",
@@ -2488,7 +2534,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-2d9e94250954",
@@ -2511,7 +2557,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-07f80d91e24d",
@@ -2557,7 +2603,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-41f0391e750a",
@@ -2580,7 +2626,7 @@
     "university_eligibility_note": "El texto menciona explícitamente a universidades o entidades públicas como elegibles (\"research organisations\").",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "idrc-international-development-research-centre-8a31fc046847",
@@ -2603,7 +2649,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"consortium\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-aafee225ee02",
@@ -2626,7 +2672,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-26T13:35:16.551984",
-    "last_seen_at": "2026-10-03T14:07:04.774116"
+    "last_seen_at": "2026-10-10T14:58:33.795805"
   },
   {
     "id": "anr-agence-nationale-de-la-recherche-14f5c983f693",
@@ -2695,7 +2741,7 @@
     "university_eligibility_note": "El texto menciona esquemas de consorcio/alianza (\"consortium\"); una universidad pública podría participar como socio, no necesariamente como ejecutora principal.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "idrc-international-development-research-centre-e6e574b2bbea",
@@ -2718,7 +2764,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:25.253200",
-    "last_seen_at": "2026-10-03T14:07:14.586813"
+    "last_seen_at": "2026-10-10T14:58:41.482101"
   },
   {
     "id": "research-council-of-finland-academy-of-finland-8446aa00169b",
@@ -2741,7 +2787,7 @@
     "university_eligibility_note": "No se encontraron términos claros de elegibilidad en el texto disponible; revisar los términos de referencia o bases completas de la convocatoria.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:37.732203",
-    "last_seen_at": "2026-10-03T14:07:33.355156"
+    "last_seen_at": "2026-10-10T14:58:55.304163"
   },
   {
     "id": "european-commission-funding-tenders-portal-0b0cdbaf0a55",
@@ -2764,7 +2810,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-b47d9be8b045",
@@ -2787,7 +2833,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-148a1bf67567",
@@ -2810,7 +2856,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-e5cedd396965",
@@ -2833,7 +2879,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-2512a8d502f5",
@@ -2856,7 +2902,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-25ebaefbfd64",
@@ -2879,7 +2925,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-42810b21b6ba",
@@ -2902,7 +2948,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-e9f1be2283f1",
@@ -2925,7 +2971,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-cd1a734a4638",
@@ -2948,7 +2994,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-c39bb5f3dd00",
@@ -2971,7 +3017,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-ddc79b43f26d",
@@ -2994,7 +3040,7 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   },
   {
     "id": "european-commission-funding-tenders-portal-d8213e55083f",
@@ -3017,6 +3063,6 @@
     "university_eligibility_note": "No hay suficiente texto público para evaluar los requisitos de elegibilidad.",
     "status": "Por confirmar",
     "first_seen_at": "2026-09-11T09:07:18.548234",
-    "last_seen_at": "2026-10-03T14:07:05.666277"
+    "last_seen_at": "2026-10-10T14:58:34.440781"
   }
 ]
